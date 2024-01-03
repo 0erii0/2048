@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameOver>
+    <Win>你赢了</Win> 
+    <Lose>你输了</Lose> 
+</GameOver> 
+<GameTitle>My2048</GameTitle>
